@@ -7,7 +7,7 @@ Notice that you have to have Java installed to play the game.
 If you want to try it open your command prompt or terminal.
 
 Clone the repository to your computer 
-  - git clone https://github.com/MarjutM/Battleship.
+  - git clone https://github.com/MarjutM/Battleship
   
 Compile the source files into classes
   - javac Main.java
